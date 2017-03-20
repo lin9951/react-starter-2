@@ -1,8 +1,8 @@
 import React from 'react';
 import { render } from 'react-dom';
-import { SlideShowApp } from './Components/SlideShowApp';
-
+import { Title } from './Components/Title';
+ 
 render(
-    <SlideShowApp />,
+    <Title text="Hello ES6" />,
     document.getElementById('content')
 );
