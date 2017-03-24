@@ -36,4 +36,4 @@ For more ready starter kit, please refer to [Issue 1](https://github.com/jollen/
 
 * [http://jollen.github.io/react-babel-starter/](http://jollen.github.io/react-babel-starter/)
 # react-starter-2
-0324練習
+
